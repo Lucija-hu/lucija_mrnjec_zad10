@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  background-image: url("pozadine/pozadina2.jpg");
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-family: calibri;
+}
+img {
+	height: 250px;
+	padding: 35px;
+	border-radius: 100px;
+	
+}
+img:hover {
+	opacity: 0.3;
+}
+video {
+	height: 400px;
+	width: 700px;
+	display: block;
+	margin: auto;
+	padding-bottom: 100px;
+	
+}
+audio {
+	display: block;
+	margin: auto;
+	padding-bottom: 100px;
+}
+iframe {
+	height: 400px;
+	width: 700px;
+	display: block;
+	margin: auto;
+	padding-bottom: 100px;
+}
+a {
+	color: white;
+	font-family: calibri;
+	font-size: larger;
+	padding-left: 25px;
+}
+p {
+	background: rgba(128, 128, 128, .5); 
+	text-align: center;
+	color: white;
+	padding: 20px;
+	width: 850px;
+	display: block;
+	margin: auto;
+}
+ol {
+	padding-left: 300px;
+	background: rgba(255, 122, 89, .5);
+	display: block;
+	margin: auto;
+	width: 391px;
+
+}
+h1 {
+	color: rgba(255, 122, 89);
+	font-family: calibri;
+	text-align: center;
+}
+h3 {
+	color: rgba(255, 122, 89);
+	font-family: calibri;
+	text-align: center;
+	
+}
+ul {
+	padding-left: 300px;
+	background: rgba(255, 122, 89, .5);
+	display: block;
+	margin: auto;
+	width: 391px;
+	color: white;
+	font-family: calibri;
+	
+}
+nav {
+	background: rgba(255, 122, 89);
+	display: block;
+	margin: 20;
+	width: auto;
+	
+}
